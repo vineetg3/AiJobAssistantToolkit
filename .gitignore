@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+npm-debug.log
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+
+# OS Files
+.DS_Store
+
+# Flask specific
+instance/
+.webassets-cache
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+.venv/
